@@ -1,7 +1,8 @@
 ### 自动化生成PDF工具
 
 #### 依赖
-[AE_PdfTransform](https://gitee.com/aedge/AE_PdfTransform)
+github:[AE_PdfTransform](https://github.com/AEdgejay/AE_PdfTransform)
+gitee:[AE_PdfTransform](https://gitee.com/aedge/AE_PdfTransform)
 
 #### 使用说明
 在 git bash 或 shell命令行 直接执行
